@@ -6,4 +6,4 @@ a repository to save crealer code
  网站来源：https://socialblade.com/youtube/top/country/
 
  输出：涵盖 评级，主页名，类型，和主页地址
-![youtube_top250]('https://github.com/moxigandashu/crawler/blob/master/output.jpg')
+![youtube_top250](https://github.com/moxigandashu/crawler/blob/master/output.jpg)
